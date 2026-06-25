@@ -1,3 +1,11 @@
+The original dataset is provided by Home Credit through Kaggle and cannot be redistributed.
+
+This repository contains only the source code and methodology.
+
+Dataset:
+https://www.kaggle.com/competitions/home-credit-credit-risk-model-stability
+
+
 Variable,Description
 actualdpd_943P,Days Past Due (DPD) of previous contract (actual).
 actualdpdtolerance_344P,DPD of client with tolerance.
